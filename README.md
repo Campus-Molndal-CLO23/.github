@@ -1,4 +1,4 @@
-## Välkommen Cloudkodare 👋
+## Välkommen Cloudkodare H2023 👋
 
 🙋‍♀️ På den här länken kommer jag (Marcus) att publicera all kod vi använder under kurserna. 
 
